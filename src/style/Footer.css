@@ -1,0 +1,115 @@
+.footer-container{
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.footer-title{
+    width:50%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+.footer-title .footer-head-title{
+    font-size: 30px;
+    font-weight: 700;
+    
+}
+
+.footer-title .footer-sub-title{
+    font-size: 15px;
+    font-weight: 800;
+    margin:-10px 100px 0px 100px;
+}
+.circles{
+    display: flex;
+    flex-direction: row;
+}
+.circle {
+    position: relative;
+    width: 132px;
+    height: 133px;
+    margin: 100px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+  .circle.per-50 {
+    background-image: conic-gradient(#499557 100%, #eeeeee 0);
+  }
+  .circle.per-75 {
+    background-image: conic-gradient(#499557 75%, #eeeeee 0);
+  }
+  .circle.per-85 {
+    background-image: conic-gradient(#499557 85%, #eeeeee 0);
+  }
+  .circle .inner {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 115px;
+    height: 115px;
+    background: #fff;
+    border-radius: 50%;
+   
+    color: #499557;
+  }
+
+  .percentage{
+    font-size: 1.8rem;
+    font-weight: 1000;
+  }
+
+  .percentage-title{
+    font-size: 1rem;
+  }
+  .circle-title{
+    font-size: 18px;
+    margin-top: -80px;
+    margin-bottom: 100px;
+  }
+
+  @media only screen and (max-width: 600px){
+    .footer-container{
+        width: 470px;
+    }
+    .footer-title{
+        width:100%;
+    }
+    .footer-title .footer-head-title{
+        font-size: 22px;
+        font-weight: 800;
+        
+    }
+    .footer-title .footer-sub-title{
+        font-size: 15px;
+        font-weight: 800;
+        margin: 10px 60px 0px 80px;
+    }
+    .circles{
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 50px;
+    }
+    .circle {
+        position: relative;
+        width: 132px;
+        height: 133px;
+        margin: 50px 0px 100px 140px;
+        border-radius: 50%;
+        overflow: hidden;
+    }
+    .circle-title{
+        font-size: 18px;
+        margin: -73px 80px -26px 80px;
+    }
+  }
+  
