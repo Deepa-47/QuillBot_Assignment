@@ -7,7 +7,7 @@ import image4 from "../images/synonym.jpg";
 
 export const Header=()=>{
     const imageData=[image1, image2, image3, image4];
-    const [imageUrl, setImageUrl] = useState("");
+    const [imageUrl, setImageUrl] = useState(image4);
     useEffect(()=>{
         let i=0;
         setInterval(()=>{
