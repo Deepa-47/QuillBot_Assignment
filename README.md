@@ -12,5 +12,6 @@ https://quill-bot-assignment.vercel.app/
 
 ## Screenshots
 ![Screenshot (150)](https://user-images.githubusercontent.com/76946978/210957785-ea393dbd-3eb7-4e17-b68e-10c343caf43a.png)
-![Screenshot (148)](https://user-images.githubusercontent.com/76946978/210957787-7c342cac-5241-4f30-82a2-3ba7cb1b41d9.png)
 ![Screenshot (149)](https://user-images.githubusercontent.com/76946978/210957791-e4b1094a-d45f-4229-b171-d683945c559f.png)
+![Screenshot (148)](https://user-images.githubusercontent.com/76946978/210957787-7c342cac-5241-4f30-82a2-3ba7cb1b41d9.png)
+
