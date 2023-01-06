@@ -1,4 +1,4 @@
-<h1 align="center"> Car Showroom </h1>
+<h1 align="center"> QuillBot Assessment </h1>
 This is a Frontend assessment Project for QuillBot premium web page. It contains multiple components. This page is similar to https://quillbot.com/premium (Not the full web page but shown only UI design which is show in the screenshot).
 
 # Live
